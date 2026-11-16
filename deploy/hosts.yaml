@@ -1,3 +1,4 @@
+# Production deployment targets
 hosts:
-  - admin-portal01.acme.example
+  - admin-portal-001.acme.example
 image: registry.acme.example/tools/admin-portal
